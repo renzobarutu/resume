@@ -1,0 +1,160 @@
+<html>
+<html lang=en">
+<head>
+<meta charset="UTF -8>
+<meta http-equiv="X-Compatible" content="IE=edge">
+<meta name=viewport" content="width=device-width,initial-scale-scale=1.0">
+<title>My Resume</title>
+</head>
+<body>
+<!--header-->
+<header>
+<table>
+<tr>
+<td>
+<img src="1f2d6bcc-550f-4bed-8deb-ee7100910ce5.jpg"alt=""width="127px">
+</td>
+<td>
+<h1>Renzo D. Barutu</h1>
+</td>
+</tr>
+</table>
+</header>
+<br>
+<!--About Me-->
+<section>
+<h2>About Me</h2>
+<hr>
+<p>I am friendly and creative disigner and dedicated collage student of Manila Central University, pursuing the course of Bachelor of Science in Entertainment and Multimedia Computing (BSEMC), Seeking and eager to learn and improve my skill to discover and unleash my bright potential in the future and use it as professional</p>
+</section>
+<br>
+<!--Personal Details-->
+<section>
+<h2>Personal Details</h2>
+<hr>
+<table border="1px">
+<tr>
+<td>
+<h3>Name</h3>
+</td>
+<td>
+<p>Renzo D. Barutu</p>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Email Address</h3>
+</td>
+<td>
+<p>renzobaruto@gmail.com</p>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Address</h3>
+</td>
+<td>
+<p>San Roque San Isidro N.E.</p>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Phone Number<h3>
+</td>
+<td>
+<p>09386290734</p>
+</td>
+</tr>
+</table>
+</section>
+<br>
+<!--Education Attainment-->
+<section>
+<h2>Education Attainment</h2>
+<hr>
+<table border="2px">
+<tr>
+<td>
+<strong>Collage</strong>
+<p>2025-2029</p>
+</td>
+<td>
+<h4>•Manila Central University</h4>
+<p>•Bachelor of Science in Entertainment in Multimedia computing</p>
+<p>•Manila Central University, Epifanio de los Santos Ave, Morning Breeze Subdivision, Caloocan, 1400 Metro Manila</p>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Senior High</strong>
+<p>2022-2024</p>
+</td>
+<td>
+<h4>•General De Jesus Collage</h4>
+<p>•General Academic Strand</p>
+<p>•Vallaria street, San Isidro Nueva Ecija</p>
+</td>
+</tr>
+<tr>
+<td>
+<strong>High School</strong>
+<p>2017-2022</p>
+</td>
+<td>
+<h4>•T.A Dionisio National High School</h4>
+<p>•Medina Street, Malapit San Isidro Nueva Ecija</p>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Elementary school</strong>
+<p>2012-2017</p>
+</td>
+<td>
+<h4>•San Roque Elementary School</h4>
+<p>•Sa Roque San Isidro Nueva Ecija</p>
+</td>
+</tr>
+</table>
+</section>
+<br>
+<!--Work Experience-->
+<section>
+<h2>Work Experience</h2>
+<hr>
+<table>
+<tr>
+<td>
+</td>
+</tr>
+<strong>Immersion Training</strong>
+</td>
+<td>
+<p>•Encoder of national id (San Isidro Nueva Ecija Municipality)</p>
+<p>•Completed the 80 hours of training requirement in post office</p>
+<p>•April 24, 2024 to May 10, 2024</p>
+</td>
+<td>
+<tr>
+</table>
+</section>
+<br>
+<!--Skills and Abilities-->
+<section>
+<h2>Skills and Abilities</h2>
+<hr>
+<h3>skills</h3>
+<ul>
+<li>Drawing</li>
+<li>Graphic Design</li>
+<li>Digital Art</li>
+<li>Languages: HTML, PHYTON, JAVA, JAVA SCRIPT, CSS C# C++</Li>
+<li>Tools: Notepad, Notepad++, Capcut, Sketchbook, Ibispaint</li>
+</ul>
+<h3>abilities</h3>
+<ul>
+<li>Can work under preasure</li>
+<li>Responsible willing to learn</li>
+<li>Creative and productive</li>
+</body>
+</html>
